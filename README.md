@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Oliwia - Young Programmer 💻👩‍💻
+# 💻👩‍💻
 
 Hello! I'm Oliwia, a young programmer who is fascinated by the world of technology and coding. My heart beats for code, and my mind is filled with a passion for creating new things.
 
